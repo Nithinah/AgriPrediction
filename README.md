@@ -41,3 +41,9 @@ Upload your CSV, select a commodity and state, and view interactive predictions!
 
 ## 👥 Team
 Built during a Hackathon to address real-world challenges in agricultural pricing using AI/ML. This tool aims to empower farmers and traders with short-term pricing insights, supporting informed decisions in their agricultural journey.
+
+![image](https://github.com/user-attachments/assets/78ac7489-d771-4a5e-b6c4-61724c3803ff)
+![image](https://github.com/user-attachments/assets/e54dbd93-8773-4c18-a4b2-f33138012d9a)
+
+
+

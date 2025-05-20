@@ -31,11 +31,13 @@ Run the app:
 streamlit run app.py
 Upload your CSV, select a commodity and state, and view interactive predictions!
 
-##📈 Output
+## 📈 Output
 
 📉 Line chart: Actual vs Predicted Prices
+
 📅 Forecast Table: 3-day predicted prices in Rs./Quintal and Rs./Kg
+
 🧠 Insight Text: Auto-generated interpretation of future price trends using LLMs
 
-##👥 Team
+## 👥 Team
 Built during a Hackathon to address real-world challenges in agricultural pricing using AI/ML. This tool aims to empower farmers and traders with short-term pricing insights, supporting informed decisions in their agricultural journey.
